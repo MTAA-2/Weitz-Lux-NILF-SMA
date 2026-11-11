@@ -112,7 +112,7 @@ a { color: var(--teal); }
 .progress-fill { display: block; height: 100%; width: 33%; background: var(--teal); border-radius: 999px; }
 
 .form-frame {
-  height: 430px; overflow: auto; border-radius: 6px;
+  height: 730px; overflow: auto; border-radius: 6px;
   -webkit-overflow-scrolling: touch;
 }
 .form-frame iframe { width: 100%; height: 100%; border: 0; display: block; }
